@@ -179,3 +179,10 @@ Oddano 32 głosy, 3 były nieważne. Wybrano następujące osoby:
 - Radosław Zając
 - Łukasz Gorczyca
 - Jan Ulbrych
+
+## Wolne Wnioski
+Były Prezes Bartłomiej Puget zawnioskował żeby o Walnym Zebraniu wysyłać informację z odpowiednim
+wyprzedzeniem. Podał swój przykład, że udało mu się zdążyć, tym niemniej inni byli członkowie
+mogą nie zdążyć (np. prof. Marek Zaionc, z którym rozmawiał). Joanna Turaj podała przykład, że
+można na Wydziale powiesić plakat. Jako orientacyjną datę podano dwa miesiące wcześniej - niektórzy
+Prezesi byli skłonni przyjechać na Walne Zebranie zza granicy.
